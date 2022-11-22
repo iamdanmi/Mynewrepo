@@ -1,0 +1,2 @@
+# Mynewrepo
+Git exam
